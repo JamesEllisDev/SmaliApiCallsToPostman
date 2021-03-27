@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Smali files
+*.Smali
+
+#Json outputs
+*.json
